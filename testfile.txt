@@ -1,3 +1,5 @@
 this file is to test release please, I will write sentences here
 
 Now, Im trying a fix
+
+And now I will commit without conventional to test if release-please merge this change into the release PR
