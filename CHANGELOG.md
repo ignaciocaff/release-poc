@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/ignaciocaff/release-poc/compare/v2.0.0...v2.1.0) (2024-05-30)
+
+
+### Features
+
+* **dns:** add new record to the hosted zone ([#9](https://github.com/ignaciocaff/release-poc/issues/9)) ([35839a2](https://github.com/ignaciocaff/release-poc/commit/35839a230d31733706a1bb2b3d4fbd9dcb75e3ba))
+
 ## [2.0.0](https://github.com/ignaciocaff/release-poc/compare/v1.0.0...v2.0.0) (2024-05-27)
 
 
