@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.2](https://github.com/ignaciocaff/release-poc/compare/eks-addons-v0.8.1...eks-addons-v0.8.2) (2024-05-30)
+
+
+### Bug Fixes
+
+* **my-addon:** the last addon ([#43](https://github.com/ignaciocaff/release-poc/issues/43)) ([b345b66](https://github.com/ignaciocaff/release-poc/commit/b345b6642dc0eed84d722993069c1d1efe17f26b))
+
 ## [0.8.1](https://github.com/ignaciocaff/release-poc/compare/eks-addons-v0.8.0...eks-addons-v0.8.1) (2024-05-30)
 
 
