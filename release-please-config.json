@@ -1,19 +1,17 @@
 {
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "terraform-module",
   "packages": {
     "eks": {
       "path": "modules/eks",
-      "release-type": "terraform-module",
       "changelog-path": "modules/eks/CHANGELOG.md"
     },
     "dns": {
       "path": "modules/dns",
-      "release-type": "terraform-module",
       "changelog-path": "modules/dns/CHANGELOG.md"
     },
     "datadog": {
       "path": "modules/datadog",
-      "release-type": "terraform-module",
       "changelog-path": "modules/datadog/CHANGELOG.md"
     }
   }
