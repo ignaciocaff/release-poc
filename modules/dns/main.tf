@@ -1,4 +1,4 @@
-# Should trigger the complete process x3
+# Should trigger the complete process for DNS and tag this
 resource "aws_route53_record" "record" {
   zone_id = var.zone_id
   name    = var.name
