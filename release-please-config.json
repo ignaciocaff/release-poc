@@ -4,15 +4,15 @@
   "packages": {
     "modules/eks": {
       "package-name": "eks",
-      "changelog-path": "./CHANGELOG.md"
+      "changelog-path": "CHANGELOG.md"
     },
     "modules/dns": {
       "package-name": "dns",
-      "changelog-path": "./CHANGELOG.md"
+      "changelog-path": "CHANGELOG.md"
     },
     "modules/datadog": {
       "package-name": "datadog",
-      "changelog-path": "./CHANGELOG.md"
+      "changelog-path": "CHANGELOG.md"
     }
   }
 }
