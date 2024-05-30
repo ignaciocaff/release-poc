@@ -1,17 +1,18 @@
 {
-    "packages": {
-      "eks": {
-        "path": "modules/eks",
-        "release-type": "terraform-module"
-      },
-      "dns": {
-        "path": "modules/dns",
-        "release-type": "terraform-module"
-      },
-      "datadog": {
-        "path": "modules/datadog",
-        "release-type": "terraform-module"
-      }
+  "packages": {
+    "eks": {
+      "path": "modules/eks",
+      "release-type": "terraform-module"
+    },
+    "dns": {
+      "path": "modules/dns",
+      "release-type": "terraform-module"
+    },
+    "datadog": {
+      "path": "modules/datadog",
+      "release-type": "terraform-module"
     }
-  }
+  },
+  ".": "2.1.0"
+}
   
