@@ -1,3 +1,4 @@
+# this should tigger eks addons PR and future tag taking care of the current version in the manifest (0.7.12)
 variable "tags" {
   description = "Additional tags (e.g. `map('BusinessUnit`,`XYZ`)"
   type        = map(string)
