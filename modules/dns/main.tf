@@ -1,4 +1,4 @@
-# Should trigger the complete process
+# Should trigger the complete process x2
 resource "aws_route53_record" "record" {
   zone_id = var.zone_id
   name    = var.name
