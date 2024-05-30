@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/ignaciocaff/release-poc/compare/v2.1.0...v3.0.0) (2024-05-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking txt, or release please is solid? ([#11](https://github.com/ignaciocaff/release-poc/issues/11))
+
+### Features
+
+* breaking txt, or release please is solid? ([#11](https://github.com/ignaciocaff/release-poc/issues/11)) ([3a0ba5e](https://github.com/ignaciocaff/release-poc/commit/3a0ba5ec180ff27ec474bdf3a0682b432af5b845))
+
 ## [2.1.0](https://github.com/ignaciocaff/release-poc/compare/v2.0.0...v2.1.0) (2024-05-30)
 
 
