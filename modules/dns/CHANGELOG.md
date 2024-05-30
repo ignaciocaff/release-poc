@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/ignaciocaff/release-poc/compare/dns-v0.1.0...dns-v0.2.0) (2024-05-30)
+
+
+### Features
+
+* **dns:** first release ([#22](https://github.com/ignaciocaff/release-poc/issues/22)) ([f28e505](https://github.com/ignaciocaff/release-poc/commit/f28e5057b0d7b1a760a541a71909dfb18c89829c))
+
 ## 0.1.0 (2024-05-30)
 
 
