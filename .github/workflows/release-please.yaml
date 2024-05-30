@@ -13,12 +13,8 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - name: Check token permissions
-        run: gh auth status
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - uses: googleapis/release-please-action@v4
         with:
+          release-type: terraform-module
           token: ${{ secrets.GITHUB_TOKEN }}
-          release-type: simple
+          config-file: .release-please-manifest.json
