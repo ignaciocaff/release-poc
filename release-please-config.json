@@ -2,8 +2,16 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "terraform-module",
   "packages": {
-    "modules/eks": {
-      "package-name": "eks",
+    "modules/eks/addons": {
+      "package-name": "eks-addons",
+      "changelog-path": "CHANGELOG.md"
+    },
+    "modules/eks/pipelines-eks-role": {
+      "package-name": "pipelines-eks-role",
+      "changelog-path": "CHANGELOG.md"
+    },
+    "modules/s3-bucket": {
+      "package-name": "s3-bucket",
       "changelog-path": "CHANGELOG.md"
     },
     "modules/dns": {
