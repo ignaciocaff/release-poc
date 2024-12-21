@@ -17,3 +17,5 @@ resource "aws_route53_record" "record" {
 }
 
 # Means a new dns module
+
+# Now im going to try a minor
