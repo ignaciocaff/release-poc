@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ignaciocaff/release-poc/compare/dns-v1.0.0...dns-v1.1.0) (2024-12-21)
+
+
+### Features
+
+* minor ([#48](https://github.com/ignaciocaff/release-poc/issues/48)) ([ae49c16](https://github.com/ignaciocaff/release-poc/commit/ae49c16ad5f53cc387d284d1244d6feaac8387b1))
+
 ## [1.0.0](https://github.com/ignaciocaff/release-poc/compare/dns-v0.2.0...dns-v1.0.0) (2024-12-21)
 
 
