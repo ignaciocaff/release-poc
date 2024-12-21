@@ -1,5 +1,5 @@
 {
-    "modules/dns": "1.0.0",
+    "modules/dns": "1.1.0",
     "modules/datadog": "0.1.0",
     "modules/eks/addons": "0.8.2",
     "modules/eks/pipelines-eks-role": "0.3.5",
