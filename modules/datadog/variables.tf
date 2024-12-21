@@ -119,3 +119,9 @@ variable "renotify_interval" {
   type        = number
   default     = 0
 }
+
+variable "renotify_two" {
+  description = "Testing all"
+  type        = number
+  default     = 0
+}
