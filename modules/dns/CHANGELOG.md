@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ignaciocaff/release-poc/compare/dns-v1.1.0...dns-v1.2.0) (2024-12-23)
+
+
+### Features
+
+* **modules/dns:** feat with scope too ([2474a46](https://github.com/ignaciocaff/release-poc/commit/2474a46347cc32aeaf972d13c80cf8e28f3d8bb0))
+
 ## [1.1.0](https://github.com/ignaciocaff/release-poc/compare/dns-v1.0.0...dns-v1.1.0) (2024-12-21)
 
 
