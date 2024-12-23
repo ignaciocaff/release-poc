@@ -126,7 +126,7 @@ variable "renotify_two" {
   default     = 0
 }
 
-#minor on datadog
+#minor on datadog with scope
 
 
 # Testing minor commit first sd
