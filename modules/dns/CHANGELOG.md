@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/ignaciocaff/release-poc/compare/dns-v1.2.0...dns-v2.0.0) (2024-12-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* chronsphere output
+
+### Features
+
+* chronsphere output ([1562129](https://github.com/ignaciocaff/release-poc/commit/15621292cc019df0cec5791840aae2928fbb073a))
+
 ## [1.2.0](https://github.com/ignaciocaff/release-poc/compare/dns-v1.1.0...dns-v1.2.0) (2024-12-23)
 
 

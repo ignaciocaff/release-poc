@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/ignaciocaff/release-poc/compare/datadog-v0.1.2...datadog-v1.0.0) (2024-12-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* chronsphere output
+
+### Features
+
+* chronsphere output ([1562129](https://github.com/ignaciocaff/release-poc/commit/15621292cc019df0cec5791840aae2928fbb073a))
+
 ## [0.1.2](https://github.com/ignaciocaff/release-poc/compare/datadog-v0.1.1...datadog-v0.1.2) (2024-12-23)
 
 
