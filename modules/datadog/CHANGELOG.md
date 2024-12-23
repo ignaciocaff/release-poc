@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/ignaciocaff/release-poc/compare/datadog-v0.1.1...datadog-v0.1.2) (2024-12-23)
+
+
+### Bug Fixes
+
+* **modules/datadog:** minor test with scope ([0916c0e](https://github.com/ignaciocaff/release-poc/commit/0916c0e2901a20fabb3aa1a169568c80a66691a4))
+
 ## [0.1.1](https://github.com/ignaciocaff/release-poc/compare/datadog-v0.1.0...datadog-v0.1.1) (2024-12-21)
 
 
