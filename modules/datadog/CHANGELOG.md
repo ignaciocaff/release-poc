@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ignaciocaff/release-poc/compare/datadog-v1.0.0...datadog-v1.1.0) (2024-12-24)
+
+
+### Features
+
+* pain is real for datadog ([3fb22f3](https://github.com/ignaciocaff/release-poc/commit/3fb22f33a9db92b46b8b43bbecd68ae2fc4477be))
+
 ## [1.0.0](https://github.com/ignaciocaff/release-poc/compare/datadog-v0.1.2...datadog-v1.0.0) (2024-12-23)
 
 
